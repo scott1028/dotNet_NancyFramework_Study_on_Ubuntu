@@ -2,12 +2,6 @@
 
 namespace myExtension
 {
-//	public class myExtension
-//	{
-//		public myExtension ()
-//		{
-//		}
-//	}
 	//Extension methods must be defined in a static class 
 	public static class StringExtension
 	{
