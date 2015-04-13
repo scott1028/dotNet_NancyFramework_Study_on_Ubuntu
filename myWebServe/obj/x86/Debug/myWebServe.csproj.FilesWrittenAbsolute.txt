@@ -1,0 +1,7 @@
+/home/scott/workspace/myService/myWebServe/myWebServe/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/scott/workspace/myService/myWebServe/myWebServe/bin/Debug/myWebServe.exe.mdb
+/home/scott/workspace/myService/myWebServe/myWebServe/bin/Debug/myWebServe.exe
+/home/scott/workspace/myService/myWebServe/myWebServe/obj/x86/Debug/myWebServe.exe
+/home/scott/workspace/myService/myWebServe/myWebServe/obj/x86/Debug/myWebServe.exe.mdb
+/home/scott/workspace/myService/myWebServe/myWebServe/bin/Debug/Nancy.dll
+/home/scott/workspace/myService/myWebServe/myWebServe/bin/Debug/Nancy.Hosting.Self.dll
