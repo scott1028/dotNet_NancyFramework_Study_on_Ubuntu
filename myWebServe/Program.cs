@@ -6,6 +6,10 @@ using System.Linq;
 /*
  * ref: http://nancyfx.org/
  * ref: https://github.com/NancyFx/Nancy/wiki/Hosting-Nancy-with-Nginx-on-Ubuntu#create-nancy-website
+ * ref: https://github.com/NancyFx/Nancy/wiki/Defining-routes#going-crazy-with-routes
+ * ref: https://github.com/NancyFx/Nancy/wiki/Defining-routes#condition
+ * ref: https://github.com/NancyFx/Nancy/wiki/Defining-routes#route-segment-constraints
+ * ref: http://stackoverflow.com/questions/15350552/how-to-get-real-error-messages-in-nancy-on-mono
 */
 
 namespace MyServe
