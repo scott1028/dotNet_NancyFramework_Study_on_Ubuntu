@@ -20,6 +20,8 @@ namespace MyServe
 		{
 			var uri = "http://localhost:9999";
 			Console.WriteLine (uri);
+			String test = "123123";
+			Console.WriteLine (test);
 			var host = new NancyHost (new Uri(uri));
 			Console.WriteLine (host);
 			host.Start ();

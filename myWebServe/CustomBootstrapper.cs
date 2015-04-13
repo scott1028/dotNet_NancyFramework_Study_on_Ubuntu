@@ -3,13 +3,13 @@ using Nancy;
 using Nancy.TinyIoc;
 
 /*
- * Override BootStrapper
+ * Inherits and override BootStrapper, due to ref: https://github.com/NancyFx/Nancy/wiki/Bootstrapper
  * 似乎 C# 的 Override 方式與 Java 非常類似！
 */
 
 namespace myWebServe
 {
-	public class Bootstrapper:DefaultNancyBootstrapper
+	public class CustomBootstrapper:DefaultNancyBootstrapper
 	{
 		protected override void ApplicationStartup(TinyIoCContainer container, Nancy.Bootstrapper.IPipelines pipelines)
 		{
