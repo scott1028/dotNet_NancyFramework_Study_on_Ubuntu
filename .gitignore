@@ -1,1 +1,3 @@
 *.exe
+myWebServe/obj
+myWebServe/bin
