@@ -1,4 +1,5 @@
-[How to Demo]
+How to Demo
+===========
 
 	1. Open MonoDevelop with installed NuGet Plugin.
 	2. Install Nancy, Nancy.Hosting.Self extension.
